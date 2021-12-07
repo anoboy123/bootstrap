@@ -1,0 +1,182 @@
+.header{
+    background-image: url(../Image/header.png);
+    height: 550px;
+    background-repeat: no-repeat;
+}
+.first_row{
+    margin-top: 45px;
+    margin-left: 50px;
+}
+.navbar{
+    margin-left: 170px;
+}
+.navbar li{
+    display: inline-block;
+    margin-left: 20px;
+}
+.navbar li a{
+    color: white;
+    text-decoration:none;
+}
+.second_row{
+    margin-top: 90px;
+    color: white;
+}
+.second_row h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+.second_row p{
+    font-size: 20px;
+    width: 584px;
+}
+.order_now{
+    height: 60px;
+    width: 250px;
+    background: #a4b9be;
+    font-size: 25px;
+    margin-top:40px;
+    padding: 10px;
+    display: inline-block;
+}
+.order_now:hover{
+    text-decoration: none;
+    color: white;
+}
+.start{
+    height: 400px;
+    margin-top: 80px;
+}
+.start h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+.start p{
+    width: 925px;
+    margin-left: 80px;
+    font-size: 16px;
+}
+.start img{
+    margin-top: 60px;
+}
+.work{
+    background:#a4b9be ;
+    height: 700px;
+}
+.work h2{
+    margin-top: 80px;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.work p{
+    width: 550px;
+    color: white;
+    margin-left: 25%;
+}
+.work img{
+    width: 870px;
+    height: 460px;
+    margin-top: 66px;
+}
+.price{
+    height: 854px;
+}
+.price h2{
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+.price p{
+    width: 600px;
+    margin-left: 25%;
+    color: #98a0a5;
+}
+.price_table{
+    width: 30%;
+    float: left;
+    margin-top: 60px;
+    margin-left: 3%;
+    background: #e9eef2;
+}
+.price_table li{
+    height: 80px;
+    color: #535a5e;
+    font-size: 18px;
+    padding-top: 15px;
+}
+.price_table li:first-child{
+    color:#e9eef2;
+    font-size: 30px;
+}
+.free li:first-child{
+    background: #535a5e;
+    font-weight: bold;
+}
+.free li:last-child{
+     background: #535a5e;
+     height: 60px;
+}
+.free li:nth-child(2){
+    font-weight: bold;
+}
+.professional li:first-child{
+    background: #58ad52;
+    font-weight: bold;
+}
+.professional li:nth-child(2){
+    font-weight: bold;
+}
+.professional li:last-child{
+    background: #58ad52;
+    height: 60px;
+}
+.enterprise li:first-child{
+    background: #53a1ad;
+    font-weight: bold;
+}
+.enterprise li:nth-child(2){
+    font-weight: bold;
+}
+.enterprise li:last-child{
+    background: #53a1ad;
+    height: 60px;
+}
+.price_table li a{
+    text-decoration: none;
+    color: white;
+}
+.contact{
+    height: 740px;
+    background: #2d3035;
+}
+.contact h2{
+    color: white;
+    margin-top: 80px;
+}
+.contact p{
+    margin-top: 30px;
+    color: #98a0a5;
+}
+.contact img{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+
+
+
+
+.footer{
+    height: 130px;
+}
+.footer p{
+    margin-top: 60px;
+    color: #8c9092;
+}
+.footer li{
+    margin-top: 60px;
+}
+.footer li a{    
+    color: #535a5e;
+}
